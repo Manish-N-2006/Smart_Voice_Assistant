@@ -80,6 +80,5 @@ Voice Command	Action
 ## 🧑‍💻 Author
 
 - Manish N
-- B.Tech CSE (AI & Python Development)
 - GitHub: Manish-N-2006
-- Project Repository: Simple_Voice_Assistant
+- 💼 LinkedIn: https://www.linkedin.com/in/manish-n-b397a0331/
